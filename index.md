@@ -1,3 +1,3 @@
 ---
-redirect_to: "http://lulab.life.tsinghua.edu.cn/postar"
+redirect_to: "http://lulab.life.tsinghua.edu.cn/ccg"
 ---
